@@ -20,8 +20,7 @@ Atualmente, estou focado em:
 
 Aqui estão alguns dos projetos em que trabalhei ou estou trabalhando:
 
-- **Projeto 1:** [Descrição breve do projeto 1]
-- **Projeto 2:** [Descrição breve do projeto 2]
+- **Projeto 1:** [Sistema para gerenciar skills dos funcionários na empresa Brose, utilizando Python, Django, JavaScript, HTML e CSS]
 
 ## 🌱 Estou Aprendendo
 
