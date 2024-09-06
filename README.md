@@ -27,7 +27,7 @@ Aqui estão alguns dos projetos em que trabalhei ou estou trabalhando:
 Estou sempre explorando novas tecnologias e frameworks. No momento, estou estudando:
 
 - Desenvolvimento web completo (back-end e front-end).
-- Bibliotecas e frameworks Python, como Flask e Django.
+- Bibliotecas e frameworks Python e Django.
 
 ## 💬 Entre em Contato
 
